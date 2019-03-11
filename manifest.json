@@ -12,7 +12,8 @@
     },
 
     "permissions": [
-      "contextMenus"
+      "contextMenus",
+      "nativeMessaging"
     ], 
     "background":{
     "scripts": ["send2aria2.js", "jquery.min.js"] 
